@@ -1,0 +1,7 @@
+{
+  "token": "YOUR_DISCORD_BOT_TOKEN",
+  "solanaRpcUrl": "YOUR_SOLANA_RPC_URL",
+  "color": "#FF0000",
+  "footerText": "Developed By: Bankkroll",
+  "footerIcon": "https://i.ibb.co/8N41nV7/imageedit-4-5545101709.png"
+}
